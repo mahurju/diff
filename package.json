@@ -1,0 +1,11 @@
+{
+  "name": "diff",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mahurju/diff.git",
+  "author": "MA SEUNG JUN",
+  "license": "MIT",
+  "dependencies": {
+    "jsonfile": "^5.0.0"
+  }
+}
